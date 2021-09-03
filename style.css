@@ -2,23 +2,36 @@
 
     box-sizing: border-box;
     margin: 0;
+    padding: 0;
 
 }
-
-.debug > .sitehearder {
-    height: 100px;
-    margin-top: 1rem;
-    margin-left: 7rem;
-    margin-right: 7rem;
-    
-    
+body {
+    padding-top: 1rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
 }
+
+    .debug > .contenuto {
+        height: 300px;
+    }
+    
+
+
 
 .sitehearder {
     height: 100px;
     background-color: rgb(225, 0, 233);
    
-    
+}
 
-    
+.box1 {
+    height: 300px;
+    margin-top: 1rem;
+    background-color: rgb(193, 204, 143);
+}
+.macrobox {
+    height: 500px;
+    margin-top: 1rem;
+    background-color: rgba(75, 150, 211, 0.575);
+
 }
