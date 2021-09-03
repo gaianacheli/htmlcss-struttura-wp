@@ -2,5 +2,23 @@
 
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
+
+}
+
+.debug > .sitehearder {
+    height: 100px;
+    margin-top: 1rem;
+    margin-left: 7rem;
+    margin-right: 7rem;
+    
+    
+}
+
+.sitehearder {
+    height: 100px;
+    background-color: rgb(225, 0, 233);
+   
+    
+
+    
 }
